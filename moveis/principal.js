@@ -7,4 +7,4 @@ function bannerChange(){
 	document.querySelector('h2#mensagem').textContent = 
 		banners[currentBanner];
 }
-setInterval(bannerChange, 2000);
+setInterval(bannerChange, 1000);
