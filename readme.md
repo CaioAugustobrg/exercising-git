@@ -6,5 +6,7 @@ git push origin main
 git log
 git diff
 git diff --staged
-git rm
+git checkout
+git reset
+git revert
 
